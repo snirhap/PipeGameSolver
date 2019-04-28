@@ -10,3 +10,5 @@ Algorithms used in this project:
 - DFS
 - Best First Search
 - Hill Climbing
+
+In order to simulate the solver, run ServerDemo.java to run the server, then, under ClientGUI folder, run runClient.bat, shuffle the puzzle tiles and finally click "Solve".
